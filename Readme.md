@@ -15,4 +15,4 @@ todo meu aprendizado, exxercícios e tópicos importantes no evento #7DaysOfCode
         > node arquivo.js e seja feliz!
 
 
-    * Bons Estudos!!
+    * Bons Estudos!! *
